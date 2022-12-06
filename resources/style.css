@@ -107,3 +107,11 @@ p {
     color: #FFF;
     background-color: #C0D6DF;
 }
+
+/* FOOTER */
+
+footer {
+    background-color: #DBE9EE;
+    text-align: center;
+    height: 100px;
+}
