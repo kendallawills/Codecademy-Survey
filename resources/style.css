@@ -32,3 +32,47 @@ li {
 li:hover {
     color: #DBE9EE;
 }
+
+/* TEXT */
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    color: #466995;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: "Varela Round", sans-serif;
+    font-size: 26px;
+    font-weight: 100;
+    color: #333;
+    margin: 0 auto 20px auto;
+}
+
+h3 {
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #466995;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 30px;
+}
+
+h4 {
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #466995;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+p {
+    font-family: "Varela Round", sans-serif;
+    font-size: 18px;
+    color: #333;
+}
