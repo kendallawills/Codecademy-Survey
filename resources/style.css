@@ -88,3 +88,22 @@ p {
     top: 50px;
     padding: 40px;
 }
+
+/* QUESTIONS */
+
+.question {
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+
+.answer {
+    border: 1px solid #466995;
+    display: inline-block;
+    margin: 20px;
+}
+
+.answer:hover {
+    color: #FFF;
+    background-color: #C0D6DF;
+}
